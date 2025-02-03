@@ -5,7 +5,7 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 ## Rules
 
 1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
-2. Send the link to raniel.silva@oncase.com.br and felipe.farias@oncase.com.br;
+2. Send the link to enrique.laborao@oncase.com.br
 3. We use React and Python, but you can feel free to choose other technologies;
 
 ## Challenge
@@ -35,4 +35,4 @@ Feel free to make improviments like new funcionalities, visual optimizations, AP
 
 ## Questions?
 
-Send your questions directly to raniel.silva@oncase.com.br and felipe.farias@oncase.com.br or opening a issue.
+Send your questions directly to enrique.laborao@oncase.com.br or opening a issue.
